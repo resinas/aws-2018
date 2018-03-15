@@ -1,5 +1,5 @@
 {
-  "name": "l02",
+  "name": "l03",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,11 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/resinas/aws-2018.git",
+    "github": "https://github.com/resinas/aws-2018"
+  },  
   "author": "",
   "license": "ISC",
   "dependencies": {
