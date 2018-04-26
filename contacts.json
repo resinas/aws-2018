@@ -1,6 +1,9 @@
-{"name":"blab al","phone":"3443","_id":"Q9qt5rc4GzNHM8Rt"}
-{"name":"xxx","phone":"123","_id":"WNowArHe22BO8TAI"}
-{"name":"sara","phone":9999999,"_id":"hv8cKii8ENfDtKTt"}
-{"name":"joshua","phone":12345,"_id":"roBTNknAptXbfEU0"}
-{"name":"peterpan","phone":9999999,"_id":"tLmCWeV52Ljtaxq4"}
-{"name":"dsfa","phone":"fffasdf","_id":"DA6RnKUuWfimxhHh"}
+{"name":"luis","phone":"67890","email":"luis@pepe.com","_id":"4PO36PHRFabJ9DB0"}
+{"$$deleted":true,"_id":"4PO36PHRFabJ9DB0"}
+{"name":"pepe","phone":"12345","email":"pepe@pepe.com","_id":"BpSaN6ScBtXIbuzt"}
+{"name":"luis","phone":"67890","email":"luis@pepe.com","_id":"waSxToD2VVcLR9Ov"}
+{"$$deleted":true,"_id":"BpSaN6ScBtXIbuzt"}
+{"$$deleted":true,"_id":"waSxToD2VVcLR9Ov"}
+{"name":"pepe","phone":"12345","email":"pepe@pepe.com","_id":"dVZiRZc74fMJO9tg"}
+{"name":"luis","phone":"67890","email":"luis@pepe.com","_id":"IaaDK2KGjCZl1UQc"}
+{"$$deleted":true,"_id":"dVZiRZc74fMJO9tg"}
