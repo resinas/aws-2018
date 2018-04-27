@@ -10,7 +10,7 @@ var BasicStrategy = require('passport-http').BasicStrategy;
 var LocalAPIKey = require('passport-localapikey').Strategy;
 var users = require('./users.js');
 
-var cors = require('cors')
+var cors = require('cors');
 
 var port = (process.env.PORT || 16778);
 var baseAPI = "/api/v1";
